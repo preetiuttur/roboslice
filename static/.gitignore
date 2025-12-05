@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+static/qrs/
+order_counter.txt
